@@ -1,11 +1,14 @@
 <h1 align="center">⚡ Breyner Santiago Caicedo</h1>
 <h3 align="center">Ingeniería Electrónica | Hardware | Sistemas Embebidos</h3>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Santiago-B612&show_icons=true&theme=tokyonight"/>
 </p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-B612&layout=compact&theme=tokyonight"/>
 </p>
+
 <p align="center">
 Estudiante de Ingeniería Electrónica apasionado por el diseño de circuitos, sistemas embebidos y desarrollo de soluciones tecnológicas basadas en hardware y software.
 </p>
@@ -15,10 +18,12 @@ Estudiante de Ingeniería Electrónica apasionado por el diseño de circuitos, s
 ## 👨‍💻 Sobre mí
 
 🔹 Estudiante de Ingeniería Electrónica  
-🔹 Experiencia en diseño y simulación de circuitos electrónicos  
+🔹 Diseño y simulación de circuitos electrónicos  
 🔹 Desarrollo de sistemas embebidos  
-🔹 Diseño de PCB y prototipado electrónico  
-🔹 Interés en automatización, IoT y hardware
+🔹 Diseño de PCB  
+🔹 Integración de sensores y actuadores  
+
+Interesado en la creación de soluciones tecnológicas eficientes mediante hardware y software.
 
 ---
 
@@ -57,7 +62,7 @@ Estudiante de Ingeniería Electrónica apasionado por el diseño de circuitos, s
 ⚡ Diseño de PCB  
 ⚡ Automatización y control  
 ⚡ IoT  
-⚡ Prototipado electrónico
+⚡ Prototipado electrónico  
 
 ---
 
@@ -67,22 +72,23 @@ Estudiante de Ingeniería Electrónica apasionado por el diseño de circuitos, s
 🔹 Sistema automático de iluminación exterior  
 🔹 Contador de vehículos con sensores  
 🔹 Sistemas embebidos con microcontroladores  
-🔹 Simulación y diseño de circuitos analógicos y digitales
+🔹 Simulación y diseño de circuitos analógicos y digitales  
 
 ---
 
 ## 🌐 Portafolio
 
 💼 Portafolio profesional  
-https://curriculumsantiagocb.vercel.app
+👉 https://curriculumsantiagocb.vercel.app
 
 ---
 
 ## 📫 Contacto
 
-![📧 Email](https://img.shields.io/badge/FreeCAD-red?style=for-the-badge)
-![💼 LinkedIn]([https://img.shields.io/badge/FreeCAD-red?style=for-the-badge](https://www.linkedin.com/in/breyner-santiago-bastidas-caicedo-734644309/))
+📧 Email: **caicedosantiago256@gmail.com**  
+💼 LinkedIn:  
+https://www.linkedin.com/in/breyner-santiago-bastidas-caicedo-734644309/
 
 ---
 
-⭐ Siempre aprendiendo, construyendo y experimentando con electrónica.
+⭐ *Muchos miramos al cielo, pero pocos miramos las estrellas.*
