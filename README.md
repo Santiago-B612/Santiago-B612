@@ -80,8 +80,8 @@ https://curriculumsantiagocb.vercel.app
 
 ## 📫 Contacto
 
-📧 Email: (tu correo)  
-💼 LinkedIn: (tu linkedin)
+![📧 Email](https://img.shields.io/badge/FreeCAD-red?style=for-the-badge)
+![💼 LinkedIn]([https://img.shields.io/badge/FreeCAD-red?style=for-the-badge](https://www.linkedin.com/in/breyner-santiago-bastidas-caicedo-734644309/))
 
 ---
 
