@@ -1,16 +1,15 @@
-## Hi there 👋
+# Breyner Santiago Caicedo
 
-<!--
-**Santiago-B612/Santiago-B612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería Electrónica interesado en el diseño de circuitos electrónicos, sistemas embebidos y desarrollo de hardware.
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Electrónica: circuitos analógicos y digitales  
+PCB: KiCad, Altium Designer  
+Simulación: Proteus, Multisim  
+Programación: Python, VHDL, C++, MATLAB  
+Modelado 3D: FreeCAD, Fusion 360
+
+## Portafolio
+
+https://curriculumsantiagocb.vercel.app
